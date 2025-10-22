@@ -56,7 +56,6 @@ Currently, I’m focused on strengthening my foundations in **SQL, Python, and P
 - Automated CSV data cleaning, transformation, and report generation.  
 - Improved analysis efficiency by 70% through reusable Python scripts.  
 
-*(🔗 Replace “#” with project repo links once uploaded)*
 
 ---
 
