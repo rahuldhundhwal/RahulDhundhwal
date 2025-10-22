@@ -1,9 +1,9 @@
 <!-- Profile Banner -->
-![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi+there,+I'm+Rahul+Choudhwal+👋;Data+Analyst+|+SQL+|+Excel+|+Python+|+Power+BI;Lifelong+Learner+|+Future+Data+Engineer;Welcome+to+my+GitHub+Profile!&center=true&width=850&height=60&color=00C4FF&vCenter=true&size=22)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi+there,+I'm+Rahul+👋;Data+Analyst+|+SQL+|+Excel+|+Python+|+Power+BI;Lifelong+Learner+|+Future+Data+Engineer;Welcome+to+my+GitHub+Profile!&center=true&width=850&height=60&color=00C4FF&vCenter=true&size=22)
 
 ---
 
-# 👨‍💻 Rahul Choudhary  
+# 👨‍💻 Rahul   
 ### 🚀 Data & Business Analyst | Aspiring Data Engineer | Lifelong Learner  
 
 📍 *India*  
@@ -30,8 +30,8 @@ Currently, I’m focused on strengthening my foundations in **SQL, Python, and P
 |-----------|----------------|
 | **Languages** | Python, SQL |
 | **Data Analysis** | Excel, Pandas, NumPy |
-| **Visualization** | Power BI, Tableau, Matplotlib |
-| **Databases** | MySQL, PostgreSQL |
+| **Visualization** | Power BI, Tableau |
+| **Databases** | MySQL |
 | **Other Tools** | Git, GitHub, Jupyter Notebook, VS Code |
 | **Soft Skills** | Communication, Critical Thinking, Teamwork, Leadership |
 
@@ -100,7 +100,7 @@ Let’s connect and grow together!
 🌐 **Portfolio:** Coming Soon  
 💼 **LinkedIn:** [linkedin.com/in/rahul-dhundhwal](https://www.linkedin.com/in/rahul-dhundhwal/)  
 📊 **Kaggle:** Coming Soon  
-📧 **Email:** dhundhwalcp@gmail.com  
+📧 **Email:** rahuldhundhwal@gmail.com  
 🐙 **GitHub:** [github.com/rahuldhundhwal](https://github.com/rahuldhundhwal)
 
 ---
