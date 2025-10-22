@@ -39,7 +39,7 @@ Currently, I’m focused on strengthening my foundations in **SQL, Python, and P
 
 ## 💼 Featured Projects  
 
-### 🧾 [IT Ticket Dashboard Analysis](#)
+### 🧾 [IT Ticket Dashboard Analysis](https://github.com/rahuldhundhwal/IT_Ticket_Dashboard_Project)
 📊 **Tools:** Excel, PowerPoint, Word  
 - Built an **interactive Excel dashboard** analyzing IT ticket performance and agent efficiency.  
 - Derived KPIs on resolution time, satisfaction rate, and workload balance.  
