@@ -1,5 +1,5 @@
 <!-- Profile Banner -->
-![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi+there,+I'm+Rahul+👋;Data+Analyst+|+SQL+|+Excel+|+Python+|+Power+BI;Lifelong+Learner+|+Future+Data+Engineer;Welcome+to+my+GitHub+Profile!&center=true&width=850&height=60&color=00C4FF&vCenter=true&size=22)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hello..+there,+I'm+Rahul+Dhundhwal+👋;Data+Analyst+|+SQL+|+Excel+|+Python+|+Power+BI;Lifelong+Learner+|+Future+Data+Engineer;Welcome+to+my+GitHub+Profile!&center=true&width=850&height=60&color=00C4FF&vCenter=true&size=22)
 
 ---
 
