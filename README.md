@@ -46,7 +46,7 @@ Currently, I’m focused on strengthening my foundations in **SQL, Python, and P
 - Presented insights in a professional PPT and business documentation.  
 - Recommended data-driven process improvements for IT operations.  
 
-### 💰 [SQL Sales Insights Project](#)
+### 💰 [SQL Social Media Analysis Project](https://github.com/rahuldhundhwal/Social-Media-Analysis-MySQL-)
 📈 **Tools:** MySQL, Excel  
 - Analyzed 100K+ sales transactions across multiple regions.  
 - Identified top-performing products, peak months, and underperforming categories using SQL joins, aggregates, and CTEs.  
@@ -61,9 +61,7 @@ Currently, I’m focused on strengthening my foundations in **SQL, Python, and P
 
 ## 📚 Currently Learning  
 
-🔹 Advanced SQL for Analytics and Business Insights  
 🔹 Python for Data Science (Pandas, NumPy, Matplotlib)  
-🔹 Power BI Dashboard Design & DAX  
 🔹 Data Pipelines and Cloud Tools (AWS, Airflow Basics)
 
 ---
