@@ -39,13 +39,6 @@ Currently, I’m focused on strengthening my foundations in **SQL, Python, and P
 
 ## 💼 Featured Projects  
 
-### 🧾 [IT Ticket Dashboard Analysis](https://github.com/rahuldhundhwal/IT_Ticket_Dashboard_Project)
-📊 **Tools:** Excel, PowerPoint, Word  
-- Built an **interactive Excel dashboard** analyzing IT ticket performance and agent efficiency.  
-- Derived KPIs on resolution time, satisfaction rate, and workload balance.  
-- Presented insights in a professional PPT and business documentation.  
-- Recommended data-driven process improvements for IT operations.  
-
 ### 💰 [SQL Social Media Analysis Project](https://github.com/rahuldhundhwal/Social-Media-Analysis-MySQL-)
 📈 **Tools:** MySQL, Excel  
 - Analyzed 100K+ sales transactions across multiple regions.  
@@ -55,6 +48,20 @@ Currently, I’m focused on strengthening my foundations in **SQL, Python, and P
 ⚙️ **Tools:** Python (Pandas, NumPy, Regex)  
 - Automated CSV data cleaning, transformation, and report generation.  
 - Improved analysis efficiency by 70% through reusable Python scripts.  
+
+### 🏦 [Bank Customer Churn Analysis](https://github.com/rahuldhundhwal/Bank-Customer-Churn-Analysis)
+📊 **Tools:** MySQL, Power BI, Excel, PowerPoint, Word 
+- Built an end-to-end analytics solution to study bank customer churn and retention behavior.
+- Derived KPIs on overall and year-wise churn rate, customer engagement, and product usage.
+- Created an interactive Power BI dashboard with KPIs, slicers, and conditional formatting to identify high-risk customers.
+- Presented insights in a professional PPT and business documentation, recommending data-driven retention strategies.
+
+### 🧾 [IT Ticket Dashboard Analysis](https://github.com/rahuldhundhwal/IT_Ticket_Dashboard_Project)
+📊 **Tools:** Excel, PowerPoint, Word  
+- Built an **interactive Excel dashboard** analyzing IT ticket performance and agent efficiency.  
+- Derived KPIs on resolution time, satisfaction rate, and workload balance.  
+- Presented insights in a professional PPT and business documentation.  
+- Recommended data-driven process improvements for IT operations.  
 
 
 ---
